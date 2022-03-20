@@ -1,5 +1,4 @@
-# Hi there, I'm Iric - aka Iricge 👋 
-## I'm a student, and 16 year old Developer!!
+# Hi there, I'm Iric - aka Iricge 👋 , I'm a student, and 16 year old Developer!! 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with companies for internship
@@ -8,14 +7,12 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/iric_ge#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/iric_ge#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/iric-gorgi-311a7620a/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iric-gorgi-311a7620a/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -27,16 +24,8 @@
 
 ---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iricge&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iricge&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?iricge=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/iric_ge
 [linkedin]: https://linkedin.com/in/codeSTACKr
