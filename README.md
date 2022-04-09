@@ -11,7 +11,7 @@ I have keen on software & backend developing I want to become one. however I'm c
 <h3 align="center"> 💻 Skills</h3>
 
 <p align=center>
-<img src="http://upir.ir/images/ebvjqr48ouukznkjbop.png" width="60px" title="Html"/> <!--html-->
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white <!--html-->
 <img src="http://upir.ir/images/1rteu64vtjwoqo9rz.png" width="60px" title="Css"/> <!--css-->
 <img src="http://upir.ir/images/ae8sxtefple0gbc4ubn.png" width="60px" title="Javascript"/> <!--js-->
 <img src="http://upir.ir/images/6ksr9uarb98a0fj9o08q.png" width="60px" title="Sass"/> <!--sass-->
