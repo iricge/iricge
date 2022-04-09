@@ -21,14 +21,14 @@ I have keen on software & backend developing I want to become one. however I'm c
 </p>
 
 <details open>
-<summary align="center"> <b>📊 GitHub stats </b></summary>
+<summary align="center"> <h3><b>📊 GitHub stats </b></h3></summary>
 
 <p align="center">
  <br>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iricge&tokyonight">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iricge&theme=tokyonight">
  <br>
  <br>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iricge&tokyonight">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iricge&theme=tokyonight">
  <br>
  <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iricge&theme=tokyonight">
@@ -38,7 +38,7 @@ I have keen on software & backend developing I want to become one. however I'm c
 
  
 <details open>
-<summary align="center"> <b>📫 Contact me </b></summary>
+<summary align="center"> <h3><b>📫 Contact me </b></h3></summary>
  <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/iricge/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-iricge-inactive?style=for-the-badge&logo=linkedin"></a>
