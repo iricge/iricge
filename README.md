@@ -3,9 +3,8 @@
 </p>
 
 <h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Yo </h3> 
-```
-I'm iric gorgi
-```
+
+<h3><b>I'm iric gorgi</b></h3>
 > FrontEnd Developer <br>
 > I work as a FrontEnd developer
 I have keen on software & backend developing I want to become one. however I'm currently working on frontend & learning JavaScript ,I put most of my time into programming to reach my goals. The other time goes to studying; moreover, I'm in 11th grade. I'm an energetic person. I try my best to think positively and transfer positive energy to others. 
