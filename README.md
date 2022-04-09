@@ -39,7 +39,7 @@ I have keen on software & backend developing I want to become one. however I'm c
 
  
 <details open>
-<summary align="center"> <h3><b>📫 Contact me </b></h3></summary>
+<summary align="center"> <h3><b>:zap:📫 Contact me </b></h3></summary>
  <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/iricge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
