@@ -25,13 +25,13 @@ I have keen on software & backend developing I want to become one. however I'm c
 
 <p align="center">
  <br>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iricge&theme=tokyonight">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iricge&theme=dark">
  <br>
  <br>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iricge&theme=tokyonight">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iricge&theme=dark">
  <br>
  <br>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iricge&theme=tokyonight">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iricge&theme=dark">
 
 </p>
 </details>
