@@ -42,7 +42,7 @@ I have keen on software & backend developing I want to become one. however I'm c
 <p align="center">
 <a href="https://www.linkedin.com/in/iricge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="mailto:exsiight@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="#"><img alt="Discord" src="https://dcbadge.vercel.app/api/shield/788856728129110016"></a>
+<a href="https://discord.gg/rwEMAYX9GK"><img alt="Discord" src="https://dcbadge.vercel.app/api/shield/788856728129110016"></a>
 </p>
 </details>
 
