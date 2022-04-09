@@ -7,17 +7,17 @@
 I'm iric gorgi
 > FrontEnd Developer <br>
 > I work as a FrontEnd developer
-I have keen on software & backend developing I want to become one. however I'm currently working on frontend & learning JavaScript
+I have keen on software & backend developing I want to become one. however I'm currently working on frontend & learning JavaScript ,I put most of my time into programming to reach my goals. The other time goes to studying; moreover, I'm in 11th grade. I'm an energetic person. I try my best to think positively and transfer positive energy to others. 
 
 <h3 align="center"> 💻 Skills</h3>
 
 <p align=center>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="60px" title="Html"/> <!--html-->
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="60px" title="Css"/> <!--css-->
-<img src="https://www.kindpng.com/picc/m/67-678384_transparent-javascript-icon-png-png-download.png" width="60px" title="Javascript"/> <!--js-->
-<img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" width="60px" title="Sass"/> <!--sass-->
-<img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="60px" title="Bootstrap"/> <!--bootstrap-->
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="60px" title="Git"/> <!--git-->
+<img src="http://upir.ir/images/ebvjqr48ouukznkjbop.png" width="60px" title="Html"/> <!--html-->
+<img src="http://upir.ir/images/1rteu64vtjwoqo9rz.png" width="60px" title="Css"/> <!--css-->
+<img src="http://upir.ir/images/ae8sxtefple0gbc4ubn.png" width="60px" title="Javascript"/> <!--js-->
+<img src="http://upir.ir/images/6ksr9uarb98a0fj9o08q.png" width="60px" title="Sass"/> <!--sass-->
+<img src="http://upir.ir/images/qp1c1i6kscvmy40w80wd.png" width="60px" title="Bootstrap"/> <!--bootstrap-->
+<img src="http://upir.ir/images/27mgpii4rsuz2725t5nz.png" width="60px" title="Git"/> <!--git-->
 </p>
 
 <details open>
@@ -25,13 +25,13 @@ I have keen on software & backend developing I want to become one. however I'm c
 
 <p align="center">
  <br>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iricge&dark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iricge&tokyonight">
  <br>
  <br>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iricge&dark">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iricge&tokyonight">
  <br>
  <br>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iricge&theme=dark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iricge&theme=tokyonight">
 
 </p>
 </details>
