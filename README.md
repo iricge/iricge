@@ -21,8 +21,8 @@ I have keen on software & backend developing I want to become one. however I'm c
 <img align="center" alt="GitHub" width="60px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 </p>
 
-<details open>
-<summary align="center"> <h3><b>📊 GitHub stats </b></h3></summary>
+<details>
+<summary align="center"> <h3><b>📈 GitHub stats </b></h3></summary>
 
 <p align="center">
  <br>
@@ -39,7 +39,7 @@ I have keen on software & backend developing I want to become one. however I'm c
 
  
 <details open>
-<summary align="center"> <h3><b>:zap:📫 Contact me </b></h3></summary>
+<summary align="center"> <h3><b>📫 Contact me </b></h3></summary>
  <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/iricge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
@@ -53,5 +53,6 @@ I have keen on software & backend developing I want to become one. however I'm c
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iricge" alt="wwwAlireza" />
     <a href="https://github.com/iricge/"><img src="https://img.shields.io/github/followers/iricge?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+   <a href="https://github.com/iricge/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
 
