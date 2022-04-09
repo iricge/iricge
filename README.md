@@ -11,12 +11,12 @@ I have keen on software & backend developing I want to become one. however I'm c
 <h3 align="center"> 💻 Skills</h3>
 
 <p align=center>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="60px" title="html"/> <!--html-->
-<img src="http://upir.ir/images/1rteu64vtjwoqo9rz.png" width="60px" title="Css"/> <!--css-->
-<img src="http://upir.ir/images/ae8sxtefple0gbc4ubn.png" width="60px" title="Javascript"/> <!--js-->
-<img src="http://upir.ir/images/6ksr9uarb98a0fj9o08q.png" width="60px" title="Sass"/> <!--sass-->
-<img src="http://upir.ir/images/qp1c1i6kscvmy40w80wd.png" width="60px" title="Bootstrap"/> <!--bootstrap-->
-<img src="http://upir.ir/images/27mgpii4rsuz2725t5nz.png" width="60px" title="Git"/> <!--git-->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100px" title="html"/> <!--html-->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100px" title="Css"/> <!--css-->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100px" title="Javascript"/> <!--js-->
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="100px" title="Sass"/> <!--sass-->
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="100px" title="Bootstrap"/> <!--bootstrap-->
+<img src="http://upir.ir/images/27mgpii4rsuz2725t5nz.png" width="100px" title="Git"/> <!--git-->
 </p>
 
 <details open>
@@ -40,8 +40,9 @@ I have keen on software & backend developing I want to become one. however I'm c
 <summary align="center"> <h3><b>📫 Contact me </b></h3></summary>
  <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/iricge/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-iricge-inactive?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:exsiight@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-exsiight@gmail.com-inactive?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/iricge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="mailto:exsiight@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="#"><img alt="Discord" src="https://dcbadge.vercel.app/api/shield/788856728129110016"></a>
 </p>
 </details>
 
