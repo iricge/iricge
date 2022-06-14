@@ -2,7 +2,7 @@
  <p align='center'><img src='https://c4.wallpaperflare.com/wallpaper/579/612/913/space-simple-wallpaper-preview.jpg' alt='Word cloud generated from my GitHub repositories' width='100%'/></p> 
 </p>
 
-<h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Yo <b>I'm iric gorgi</b> </h3> 
+<h3>Yo <b>I'm iric gorgi</b> </h3> 
 
 > FrontEnd Developer <br>
 > I work as a FrontEnd developer
